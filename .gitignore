@@ -1,0 +1,4 @@
+demo/
+.mimosa/
+__pycache__/
+*.pyc
